@@ -1,12 +1,12 @@
-🏦 Banking System – Python Mini Project
+# 🏦 Banking System – Python Mini Project
 
-📌 Project Overview
+## 📌 Project Overview
 
 The **Banking System** is a Python-based mini project that simulates basic banking operations through a simple menu-driven application.
 
 The system allows users to create an account, securely log in, and perform common banking activities such as deposits, withdrawals, money transfers, and viewing transaction history.
 
- ✨ Features
+## ✨ Features
 
 * 👤 Create a bank account
 * 🔐 Login using Account Number and PIN
@@ -18,7 +18,7 @@ The system allows users to create an account, securely log in, and perform commo
 * 🔑 Change PIN
 * 🚪 Logout
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * **Python**
 * `random` module – Used to generate account numbers
@@ -28,7 +28,10 @@ The system allows users to create an account, securely log in, and perform commo
 * Conditional Statements
 * Loops
 * String Operations
- 📋 Main Menu
+
+## 📋 Main Menu
+
+```text
 ========================================
           BANKING SYSTEM
 ========================================
@@ -36,9 +39,11 @@ The system allows users to create an account, securely log in, and perform commo
 2. Login
 3. Exit
 ========================================
+```
 
 After successful login, users can access:
 
+```text
 ================================
          ACCOUNT MENU
 ================================
@@ -50,14 +55,16 @@ After successful login, users can access:
 6. Change PIN
 7. Logout
 ================================
- 🎯 Project Objective
+```
+
+## 🎯 Project Objective
 
 The objective of this project is to combine Python programming concepts into a real-world application and understand how individual concepts work together to build a functional banking system.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 **Bharath Parvathaneni**
 
-📚 Project Type
+## 📚 Project Type
 
 **Python Mini Project – Banking System**
